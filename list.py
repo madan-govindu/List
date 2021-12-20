@@ -5,7 +5,7 @@ List1.reverse()
 print("The reversed list is: ", List1)
 
 
-List2 = [111, 100, 102, 109, 151]
+List2 = [111, 100, 102, 109, 151, 152]
 List2.sort()
 print("The sorted list is: ", List2)
 
